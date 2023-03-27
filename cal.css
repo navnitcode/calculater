@@ -1,0 +1,38 @@
+.color{
+  background-color: gray;
+  margin: 20px 520px;
+}
+
+h1{
+  color:red;
+  text-align: center;
+  font-family: sans-serif;
+}
+.contaner{
+  text-align: center;
+  padding:15px 10px;
+}
+.button{
+  width: 50px;
+  padding: 20px;
+  margin: 0 4px;
+  border: 2px solid black;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.row{
+  margin: 8px 0; 
+}
+.row input{
+  width: 234px;
+  font-size: 17px;
+  margin: 0;
+  padding: 10px 0;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.rown{
+  font-weight: bold;
+  color: brown;
+
+}
